@@ -1,2 +1,4 @@
 .idea
 vendor
+/nbproject/project.xml
+/nbproject/project.properties

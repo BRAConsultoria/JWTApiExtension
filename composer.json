@@ -1,5 +1,5 @@
 {
-    "name": "cnam/jwt-api-extension",
+    "name": "braconsultoria/jwt-api-extension",
     "type": "behat-extension",
     "description": "Behat extension for testing api secure with jwt token base in Behat WebApiExtension",
     "keywords": ["api", "test","jwt"],
@@ -9,15 +9,19 @@
         {
             "name": "Anton Popov",
             "email": "cnam812@gmail.com"
+        },
+        {
+            "name": "José Francisco",
+            "email": "silvaivctd@gmail.com"
         }
     ],
 
     "require": {
-        "php": ">=5.4",
-        "behat/behat": "~3.0",
-        "firebase/php-jwt": "1.0.0",
-        "guzzlehttp/guzzle": "4.*",
-        "phpunit/phpunit": "~4.0"
+        "php": ">=5.6",
+        "behat/behat": "*",
+        "firebase/php-jwt": "*",
+        "guzzlehttp/guzzle": "*",
+        "phpunit/phpunit": "*"
     },
 
     "require-dev": {
