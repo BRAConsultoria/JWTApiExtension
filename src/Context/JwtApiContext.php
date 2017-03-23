@@ -359,7 +359,7 @@ class JwtApiContext implements ApiClientAwareInterface
         echo sprintf(
             "%s %s => %d:\n%s",
             $request->getMethod(),
-            (string) ($request instanceof RequestInterface ? $request->getUri() : $request->getUrl()),
+            (string) $request->getUri(),
             $response->getStatusCode(),
             (string) $response->getBody()
         );
