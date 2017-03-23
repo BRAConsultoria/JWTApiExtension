@@ -1,3 +1,6 @@
+Version 0.1.6:
+
+
 Version 0.1.6:x:
 fix Fatal error: Class 'PHPUnit_Framework_Assert' not found (Behat\Testwork\Call\Exception\FatalThrowableError) Task #1 - RNF - Atualizando o Guzzle para 6
 
