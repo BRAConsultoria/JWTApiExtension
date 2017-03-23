@@ -1,3 +1,6 @@
+Version 0.1.5:
+fix Fatal error: Class 'Behat\JwtApiExtension\Context\Request' not found (Behat\Testwork\Call\Exception\FatalThrowableError) Task #1 - RNF - Atualizando o Guzzle para 6
+
 Version 0.1.4:
 fix Fatal error: Call to undefined method GuzzleHttp\Psr7\Request::getUrl() (Behat\Testwork\Call\Exception\FatalThrowableError) Task #1 - RNF - Atualizando o Guzzle para 6
 
